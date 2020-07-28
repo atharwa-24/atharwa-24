@@ -1,4 +1,4 @@
-# Hi, I'm Atharwa :sagittarius::computer::volleyball::india:
+# Hi, I'm Atharwa :sagittarius::computer::volleyball::india::sparkles:
 
 <!--:sagittarius:
 **atharwa-24/atharwa-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
