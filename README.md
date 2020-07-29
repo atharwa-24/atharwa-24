@@ -1,5 +1,5 @@
 # Hi, I'm Atharwa :sagittarius::computer::volleyball::india::sparkles:
-# [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/atharwa-24)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/atharwa-24)
 
 <!--:sagittarius:
 **atharwa-24/atharwa-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
